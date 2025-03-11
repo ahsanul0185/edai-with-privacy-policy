@@ -26,7 +26,7 @@
     }
 
     .terms-of-use ul {
-      @apply list-disc pl-5
+      @apply list-disc pl-9
     }
   
   }
